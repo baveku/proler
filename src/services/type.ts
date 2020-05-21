@@ -1,0 +1,2 @@
+interface Request {}
+interface Response {}

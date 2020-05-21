@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@asset/*": ["./assets/*"],
+      "@app/*": ["./app/*"],
+      "@products/*": ["./products/*"],
+      "@auth/*": ["./auth/*"],
+      "@appstore": ["./app/redux/store"]
+    }
+  }
+}
